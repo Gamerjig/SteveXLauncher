@@ -9,18 +9,5 @@
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
     },
     "rss": "",
-    "servers": [
-        //{
-      //"id": "SteveX Server",
-      //"name": "SteveX Server",
-      //"description": "This is the SteveX Server!",
-      //"icon": "",
-      //"version": "1.0.0",
-      //"address": "No server yet..",
-      //"minecraftVersion": "26.3",
-      //"mainServer": true,
-      //"autoconnect": false,
-      //"modules": []
-    //}
-    ]
+    "servers": []
 }
